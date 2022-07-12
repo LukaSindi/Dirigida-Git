@@ -1,0 +1,16 @@
+---
+title: "Dirigida Git"
+author: "Loechle Torres, Ian Lukas"
+date: '2022-07-12'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Esto est una practica dirigida
+
+esto es un archivo de prueba
+
+este es un cambio
